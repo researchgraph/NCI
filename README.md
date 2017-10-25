@@ -5,4 +5,4 @@ This repository contains data and scripts related to the NCI Research Graph proj
 For project description please refer to http://researchgraph.org/collaborators/nci/
 
 The project activities are available at 
-https://github.com/researchgraph/Publications/projects/3
+https://github.com/researchgraph/publications/projects/3
