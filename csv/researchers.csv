@@ -1,62 +1,53 @@
-key:ID,source,local_id,last_updated,url,full_name,orcid,type
-researchgraph.org/nci/Adam.lewis@ga.gov.au,nci.org.au,Adam.lewis@ga.gov.au,30/06/2016,,Adam Lewis,,researcher
-researchgraph.org/nci/david.burbidge@ga.gov.au ,nci.org.au,david.burbidge@ga.gov.au ,30/06/2016,,David Burbidge,,researcher
-researchgraph.org/nci/gary.johnston@ga.gov.au,nci.org.au,gary.johnston@ga.gov.au,30/06/2016,,Gary Johnston,,researcher
-researchgraph.org/nci/Matt.Paget@csiro.au,nci.org.au,Matt.Paget@csiro.au,21/07/2016,https://www.researchgate.net/profile/Matt_Paget,Matt Paget,,researcher
-researchgraph.org/nci/michele.spinoccia@ga.gov.au,nci.org.au,michele.spinoccia@ga.gov.au,30/06/2016,,Michele Spinoccia,,researcher
-researchgraph.org/nci/Simon.Costello@ga.gov.au,nci.org.au,Simon.Costello@ga.gov.au,30/06/2016,,Simon Costello,,researcher
-researchgraph.org/nci/bradley.evans@sydney.edu.au,nci.org.au,bradley.evans@sydney.edu.au,30/06/2016,,Bradley John Evans,,researcher
-researchgraph.org/nci/albert.vandijk@anu.edu.au,nci.org.au,albert.vandijk@anu.edu.au,8/11/2016,http://orcid.org/0000-0002-6508-7480,Albert Van Dijk,http://orcid.org/0000-0002-6508-7480,researcher
-researchgraph.org/nci/nicholas.hannahunsw.edu.au,nci.org.au,nicholas.hannahunsw.edu.au,3/11/2016,https://www.climatescience.org.au/staff/profile/nhannah,Nicholas Hanna,,researcher
-researchgraph.org/nci/geophysics@dmp.wa.gov.au,nci.org.au,geophysics@dmp.wa.gov.au,18/08/2016,,David Howard,,researcher
-researchgraph.org/nci/r.potts@bom.gov.au,nci.org.au,r.potts@bom.gov.au,23/09/2016,,Rodney Potts,,researcher
-researchgraph.org/nci/m.drinkwater@uq.edu.au,nci.org.au,m.drinkwater@uq.edu.au,23/09/2016,http://researchers.uq.edu.au/researcher/1161,Michael Drinkwater,,researcher
-researchgraph.org/nci/webops@bom.gov.au,nci.org.au,webops@bom.gov.au,23/09/2016,,,,researcher
-researchgraph.org/nci/Robert.Furbank@csiro.au,nci.org.au,Robert.Furbank@csiro.au,23/09/2016,,Robert Furbank,,researcher
-researchgraph.org/nci/calcock@cfa.harvard.edu,nci.org.au,calcock@cfa.harvard.edu,23/09/2016,,Charles Alcock,,researcher
-researchgraph.org/nci/Edward.king@csiro.au,nci.org.au,Edward.king@csiro.au,19/07/2017,http://orcid.org/0000-0002-6898-2130,Edward King,http://orcid.org/0000-0002-6898-2130,researcher
-researchgraph.org/nci/jonathan.hodge@csiro.au,nci.org.au,jonathan.hodge@csiro.au,23/09/2016,,Jonathan Hodge,,researcher
-researchgraph.org/nci/j.freeman@bom.gov.au,nci.org.au,j.freeman@bom.gov.au,23/09/2016,,Justin Freeman,,researcher
-researchgraph.org/nci/p.scarth@uq.edu.au,nci.org.au,p.scarth@uq.edu.au,28/10/2016,http://orcid.org/0000-0001-5091-7915,Peter Scarth,http://orcid.org/0000-0001-5091-7915,researcher
-researchgraph.org/nci/Edward.king@csiro.au,nci.org.au,Edward.king@csiro.au,27/09/2017,http://orcid.org/0000-0002-6898-2130,Edward King,http://orcid.org/0000-0002-6898-2130,researcher
-researchgraph.org/nci/Diego.Miralles@UGent.be,nci.org.au,Diego.Miralles@UGent.be,16/08/2016,http://orcid.org/0000-0001-6186-5751,Diego Miralles,http://orcid.org/0000-0001-6186-5751,researcher
-researchgraph.org/nci/leesa.carson@ga.gov.au,nci.org.au,leesa.carson@ga.gov.au,30/06/2016,,Leesa Carso,,researcher
-researchgraph.org/nci/j.freeman@bom.gov.au,nci.org.au,j.freeman@bom.gov.au,24/06/2016,,Justin Freeman,,researcher
-researchgraph.org/nci/robert.parums@ga.gov.au,nci.org.au,robert.parums@ga.gov.au,30/06/2016,,Robert Parums,,researcher
-researchgraph.org/nci/Bernard.Pak@csiro.au,nci.org.au,Bernard.Pak@csiro.au,30/06/2016,http://orcid.org/0000-0002-2137-8171,Bernard Pak,http://orcid.org/0000-0002-2137-8171,researcher
-researchgraph.org/nci/mark.decker@unsw.edu.au,nci.org.au,mark.decker@unsw.edu.au,16/08/2016,http://www.bees.unsw.edu.au/mark-decker,Mark Decker,,researcher
-researchgraph.org/nci/webops@bom.gov.au,nci.org.au,webops@bom.gov.au,16/08/2016,,,,researcher
-researchgraph.org/nci/andrea.dittus@monash.edu,nci.org.au,andrea.dittus@monash.edu,3/01/2017,http://orcid.org/0000-0001-9598-6869,Andrea Dittus,http://orcid.org/0000-0001-9598-6869,researcher
-researchgraph.org/nci/Stephen.Jeffrey@csiro.au,nci.org.au,Stephen.Jeffrey@csiro.au,11/09/2017,,Stephen Jeffrey,,researcher
-researchgraph.org/nci/sophie.lewis@anu.edu.au,nci.org.au,sophie.lewis@anu.edu.au,11/09/2017,http://orcid.org/0000-0001-6416-0634,Sophie Lewis,http://orcid.org/0000-0001-6416-0634,researcher
-researchgraph.org/nci/peter.oke@csiro.au,nci.org.au,peter.oke@csiro.au,10/03/2017,http://orcid.org/0000-0002-3163-5610,Peter Oke,http://orcid.org/0000-0002-3163-5610,researcher
-researchgraph.org/nci/christian.jakob@monash.edu,nci.org.au,christian.jakob@monash.edu,25/07/2016,http://www.researcherid.com/rid/A-1082-2010,Christian Jakob,,researcher
-researchgraph.org/nci/A.Smith@bom.gov.au,nci.org.au,A.Smith@bom.gov.au,23/09/2016,https://www.researchgate.net/profile/Adam_Smith39,Adam Smith,,researcher
-researchgraph.org/nci/brian.schmidt@anu.edu.au,nci.org.au,brian.schmidt@anu.edu.au,23/09/2016,http://orcid.org/0000-0002-8538-9195,Brian Schmidt,http://orcid.org/0000-0002-8538-9195,researcher
-researchgraph.org/nci/Simon.Costello@ga.gov.au,nci.org.au,Simon.Costello@ga.gov.au,23/08/2016,,Simon Costello,,researcher
-researchgraph.org/nci/r.lorenz@unsw.edu.au,nci.org.au,r.lorenz@unsw.edu.au,3/01/2017,http://orcid.org/0000-0002-3986-1268,Ruth Lorenz,http://orcid.org/0000-0002-3986-1268,researcher
-researchgraph.org/nci/afitzgerald@bioplatforms.com,nci.org.au,afitzgerald@bioplatforms.com,29/06/2017,,Anna Fitzgerald ,,researcher
-researchgraph.org/nci/Xingbao.Wang@bom.gov.au,nci.org.au,Xingbao.Wang@bom.gov.au,23/09/2016,,Xingbao Wang,,researcher
-researchgraph.org/nci/albert.vandijk@anu.edu.au,nci.org.au,albert.vandijk@anu.edu.au,18/10/2016,,Albert Van Dijk,,researcher
-researchgraph.org/nci/d.argueso@unsw.edu.au,nci.org.au,d.argueso@unsw.edu.au,3/01/2017,https://researchdata.ands.org.au/dr-daniel-argeso/460898,Daniel Argueso,,researcher
-researchgraph.org/nci/K.Braganza@bom.gov.au,nci.org.au,K.Braganza@bom.gov.au,22/09/2016,,Karl Braganza,,researcher
-researchgraph.org/nci/Tony.Hirst@csiro.au,nci.org.au,Tony.Hirst@csiro.au,11/09/2017,,Tony Hirst,,researcher
-researchgraph.org/nci/Stephen.Jeffrey@csiro.au,nci.org.au,Stephen.Jeffrey@csiro.au,11/09/2017,https://www.researchgate.net/profile/Stephen_Jeffrey2,Stephen Jeffrey,,researcher
-researchgraph.org/nci/Ben.Evans@anu.edu.au,nci.org.au,Ben.Evans@anu.edu.au,11/09/2017,,Ben Evans,,researcher
-researchgraph.org/nci/l.menviel@unsw.edu.au,nci.org.au,l.menviel@unsw.edu.au,3/01/2017,http://orcid.org/0000-0002-5068-1591,Dr Laurie Menviel,http://orcid.org/0000-0002-5068-1591,researcher
-researchgraph.org/nci/jason.evans@unsw.edu.au,nci.org.au,jason.evans@unsw.edu.au,29/09/2017,,Jason Evans,,researcher
-researchgraph.org/nci/geophysics@dmp.wa.gov.au,nci.org.au,geophysics@dmp.wa.gov.au,29/12/2016,,David Howard@dmp.wa.gov.au,,researcher
-researchgraph.org/nci/a.pittman@unsw.edu.au,nci.org.au,a.pittman@unsw.edu.au,17/11/2016,http://orcid.org/0000-0003-0604-3274,Andy Pittman,http://orcid.org/0000-0003-0604-3274,researcher
-researchgraph.org/nci/claire.vincent@unimelb.edu.au,nci.org.au,claire.vincent@unimelb.edu.au,3/01/2017,http://orcid.org/0000-0001-5315-1644,Dr Claire Vincent,http://orcid.org/0000-0001-5315-1644,researcher
-researchgraph.org/nci/christopher.y.bull@student.unsw.edu.au,nci.org.au,christopher.y.bull@student.unsw.edu.au,3/01/2017,https://researchdata.ands.org.au/christopher-bull/472309,Christopher Bull,,researcher
-researchgraph.org/nci/G.Brassington@bom.gov.au,nci.org.au,G.Brassington@bom.gov.au,24/11/2016,,Gary Brassington,,researcher
-researchgraph.org/nci/P.Sandery@bom.gov.au,nci.org.au,P.Sandery@bom.gov.au,24/11/2016,,Paul Sandery,,researcher
-researchgraph.org/nci/s.hobeichi@student.unsw.edu.au,nci.org.au,s.hobeichi@student.unsw.edu.au,14/04/2017,http://orcid.org/0000-0001-6825-3854,Sanaa Hobeichi,http://orcid.org/0000-0001-6825-3854,researcher
-researchgraph.org/nci/poama@bom.gov.au,nci.org.au,poama@bom.gov.au,16/05/2017,,Oscar Alves,,researcher
-researchgraph.org/nci/duncan.ackerley@monash.edu,nci.org.au,duncan.ackerley@monash.edu,27/06/2017,http://orcid.org/0000-0001-9027-4088,Duncan Ackerley,http://orcid.org/0000-0001-9027-4088,researcher
-researchgraph.org/nci/brian.schmidt@anu.edu.au,nci.org.au,brian.schmidt@anu.edu.au,29/06/2017,http://orcid.org/0000-0002-8538-9195,Brian Schmidt,http://orcid.org/0000-0002-8538-9195,researcher
-researchgraph.org/nci/pearse.buchanan@utas.edu.au,nci.org.au,pearse.buchanan@utas.edu.au,23/06/2017,http://orcid.org/0000-0001-7142-882X,Pearse Buchanan,http://orcid.org/0000-0001-7142-882X,researcher
-researchgraph.org/nci/albert.vandijk@anu.edu.au,nci.org.au,albert.vandijk@anu.edu.au,24/07/2017,,Albert Van Dijk,,researcher
-researchgraph.org/nci/chunhsu.su@bom.gov.au,nci.org.au,chunhsu.su@bom.gov.au,23/08/2017,http://www.researcherid.com/rid/C-2076-2014,Dr Chun-Hsu Su,,researcher
-researchgraph.org/nci/CSIROEnquiries@csiro.au ,nci.org.au,CSIROEnquiries@csiro.au ,25/08/2017,,CSIRO,,researcher
-researchgraph.org/nci/j.soderholm@bom.gov.au,nci.org.au,j.soderholm@bom.gov.au,15/09/2017,,Joshua Soderholm,,researcher
+key:ID	source	local_id	last_updated	url	full_name	orcid	type
+researchgraph.org/nci/Adam.lewis@ga.gov.au	nci.org.au	Adam.lewis@ga.gov.au	30/06/2016		Adam Lewis		researcher
+researchgraph.org/nci/david.burbidge@ga.gov.au 	nci.org.au	david.burbidge@ga.gov.au 	30/06/2016		David Burbidge		researcher
+researchgraph.org/nci/gary.johnston@ga.gov.au	nci.org.au	gary.johnston@ga.gov.au	30/06/2016		Gary Johnston		researcher
+researchgraph.org/nci/Matt.Paget@csiro.au	nci.org.au	Matt.Paget@csiro.au	21/07/2016	https://www.researchgate.net/profile/Matt_Paget	Matt Paget		researcher
+researchgraph.org/nci/michele.spinoccia@ga.gov.au	nci.org.au	michele.spinoccia@ga.gov.au	30/06/2016		Michele Spinoccia		researcher
+researchgraph.org/nci/Simon.Costello@ga.gov.au	nci.org.au	Simon.Costello@ga.gov.au	30/06/2016		Simon Costello		researcher
+researchgraph.org/nci/bradley.evans@sydney.edu.au	nci.org.au	bradley.evans@sydney.edu.au	30/06/2016		Bradley John Evans		researcher
+researchgraph.org/nci/albert.vandijk@anu.edu.au	nci.org.au	albert.vandijk@anu.edu.au	8/11/2016	http://orcid.org/0000-0002-6508-7480	Albert Van Dijk	http://orcid.org/0000-0002-6508-7480	researcher
+researchgraph.org/nci/nicholas.hannah@unsw.edu.au	nci.org.au	nicholas.hannahunsw.edu.au	3/11/2016	https://www.climatescience.org.au/staff/profile/nhannah	Nicholas Hanna		researcher
+researchgraph.org/nci/geophysics@dmp.wa.gov.au	nci.org.au	geophysics@dmp.wa.gov.au	18/08/2016		David Howard		researcher
+researchgraph.org/nci/r.potts@bom.gov.au	nci.org.au	r.potts@bom.gov.au	23/09/2016		Rodney Potts		researcher
+researchgraph.org/nci/m.drinkwater@uq.edu.au	nci.org.au	m.drinkwater@uq.edu.au	23/09/2016	http://researchers.uq.edu.au/researcher/1161	Michael Drinkwater		researcher
+researchgraph.org/nci/Robert.Furbank@csiro.au	nci.org.au	Robert.Furbank@csiro.au	23/09/2016		Robert Furbank		researcher
+researchgraph.org/nci/calcock@cfa.harvard.edu	nci.org.au	calcock@cfa.harvard.edu	23/09/2016		Charles Alcock		researcher
+researchgraph.org/nci/Edward.king@csiro.au	nci.org.au	Edward.king@csiro.au	19/07/2017	http://orcid.org/0000-0002-6898-2130	Edward King	http://orcid.org/0000-0002-6898-2130	researcher
+researchgraph.org/nci/jonathan.hodge@csiro.au	nci.org.au	jonathan.hodge@csiro.au	23/09/2016		Jonathan Hodge		researcher
+researchgraph.org/nci/p.scarth@uq.edu.au	nci.org.au	p.scarth@uq.edu.au	28/10/2016	http://orcid.org/0000-0001-5091-7915	Peter Scarth	http://orcid.org/0000-0001-5091-7915	researcher
+researchgraph.org/nci/Diego.Miralles@UGent.be	nci.org.au	Diego.Miralles@UGent.be	16/08/2016	http://orcid.org/0000-0001-6186-5751	Diego Miralles	http://orcid.org/0000-0001-6186-5751	researcher
+researchgraph.org/nci/leesa.carson@ga.gov.au	nci.org.au	leesa.carson@ga.gov.au	30/06/2016		Leesa Carso		researcher
+researchgraph.org/nci/j.freeman@bom.gov.au	nci.org.au	j.freeman@bom.gov.au	24/06/2016		Justin Freeman		researcher
+researchgraph.org/nci/robert.parums@ga.gov.au	nci.org.au	robert.parums@ga.gov.au	30/06/2016		Robert Parums		researcher
+researchgraph.org/nci/Bernard.Pak@csiro.au	nci.org.au	Bernard.Pak@csiro.au	30/06/2016	http://orcid.org/0000-0002-2137-8171	Bernard Pak	http://orcid.org/0000-0002-2137-8171	researcher
+researchgraph.org/nci/mark.decker@unsw.edu.au	nci.org.au	mark.decker@unsw.edu.au	16/08/2016	http://www.bees.unsw.edu.au/mark-decker	Mark Decker		researcher
+researchgraph.org/nci/webops@bom.gov.au	nci.org.au	webops@bom.gov.au	16/08/2016				researcher
+researchgraph.org/nci/andrea.dittus@monash.edu	nci.org.au	andrea.dittus@monash.edu	3/01/2017	http://orcid.org/0000-0001-9598-6869	Andrea Dittus	http://orcid.org/0000-0001-9598-6869	researcher
+researchgraph.org/nci/Stephen.Jeffrey@csiro.au	nci.org.au	Stephen.Jeffrey@csiro.au	11/09/2017		Stephen Jeffrey		researcher
+researchgraph.org/nci/sophie.lewis@anu.edu.au	nci.org.au	sophie.lewis@anu.edu.au	11/09/2017	http://orcid.org/0000-0001-6416-0634	Sophie Lewis	http://orcid.org/0000-0001-6416-0634	researcher
+researchgraph.org/nci/peter.oke@csiro.au	nci.org.au	peter.oke@csiro.au	10/03/2017	http://orcid.org/0000-0002-3163-5610	Peter Oke	http://orcid.org/0000-0002-3163-5610	researcher
+researchgraph.org/nci/christian.jakob@monash.edu	nci.org.au	christian.jakob@monash.edu	25/07/2016	http://www.researcherid.com/rid/A-1082-2010	Christian Jakob		researcher
+researchgraph.org/nci/A.Smith@bom.gov.au	nci.org.au	A.Smith@bom.gov.au	23/09/2016	https://www.researchgate.net/profile/Adam_Smith39	Adam Smith		researcher
+researchgraph.org/nci/r.lorenz@unsw.edu.au	nci.org.au	r.lorenz@unsw.edu.au	3/01/2017	http://orcid.org/0000-0002-3986-1268	Ruth Lorenz	http://orcid.org/0000-0002-3986-1268	researcher
+researchgraph.org/nci/afitzgerald@bioplatforms.com	nci.org.au	afitzgerald@bioplatforms.com	29/06/2017		Anna Fitzgerald 		researcher
+researchgraph.org/nci/Xingbao.Wang@bom.gov.au	nci.org.au	Xingbao.Wang@bom.gov.au	23/09/2016		Xingbao Wang		researcher
+researchgraph.org/nci/d.argueso@unsw.edu.au	nci.org.au	d.argueso@unsw.edu.au	3/01/2017	https://researchdata.ands.org.au/dr-daniel-argeso/460898	Daniel Argueso		researcher
+researchgraph.org/nci/K.Braganza@bom.gov.au	nci.org.au	K.Braganza@bom.gov.au	22/09/2016		Karl Braganza		researcher
+researchgraph.org/nci/Tony.Hirst@csiro.au	nci.org.au	Tony.Hirst@csiro.au	11/09/2017		Tony Hirst		researcher
+researchgraph.org/nci/Ben.Evans@anu.edu.au	nci.org.au	Ben.Evans@anu.edu.au	11/09/2017		Ben Evans		researcher
+researchgraph.org/nci/l.menviel@unsw.edu.au	nci.org.au	l.menviel@unsw.edu.au	3/01/2017	http://orcid.org/0000-0002-5068-1591	Dr Laurie Menviel	http://orcid.org/0000-0002-5068-1591	researcher
+researchgraph.org/nci/jason.evans@unsw.edu.au	nci.org.au	jason.evans@unsw.edu.au	29/09/2017		Jason Evans		researcher
+researchgraph.org/nci/a.pittman@unsw.edu.au	nci.org.au	a.pittman@unsw.edu.au	17/11/2016	http://orcid.org/0000-0003-0604-3274	Andy Pittman	http://orcid.org/0000-0003-0604-3274	researcher
+researchgraph.org/nci/claire.vincent@unimelb.edu.au	nci.org.au	claire.vincent@unimelb.edu.au	3/01/2017	http://orcid.org/0000-0001-5315-1644	Dr Claire Vincent	http://orcid.org/0000-0001-5315-1644	researcher
+researchgraph.org/nci/christopher.y.bull@student.unsw.edu.au	nci.org.au	christopher.y.bull@student.unsw.edu.au	3/01/2017	https://researchdata.ands.org.au/christopher-bull/472309	Christopher Bull		researcher
+researchgraph.org/nci/G.Brassington@bom.gov.au	nci.org.au	G.Brassington@bom.gov.au	24/11/2016		Gary Brassington		researcher
+researchgraph.org/nci/P.Sandery@bom.gov.au	nci.org.au	P.Sandery@bom.gov.au	24/11/2016		Paul Sandery		researcher
+researchgraph.org/nci/s.hobeichi@student.unsw.edu.au	nci.org.au	s.hobeichi@student.unsw.edu.au	14/04/2017	http://orcid.org/0000-0001-6825-3854	Sanaa Hobeichi	http://orcid.org/0000-0001-6825-3854	researcher
+researchgraph.org/nci/poama@bom.gov.au	nci.org.au	poama@bom.gov.au	16/05/2017		Oscar Alves		researcher
+researchgraph.org/nci/duncan.ackerley@monash.edu	nci.org.au	duncan.ackerley@monash.edu	27/06/2017	http://orcid.org/0000-0001-9027-4088	Duncan Ackerley	http://orcid.org/0000-0001-9027-4088	researcher
+researchgraph.org/nci/brian.schmidt@anu.edu.au	nci.org.au	brian.schmidt@anu.edu.au	29/06/2017	http://orcid.org/0000-0002-8538-9195	Brian Schmidt	http://orcid.org/0000-0002-8538-9195	researcher
+researchgraph.org/nci/pearse.buchanan@utas.edu.au	nci.org.au	pearse.buchanan@utas.edu.au	23/06/2017	http://orcid.org/0000-0001-7142-882X	Pearse Buchanan	http://orcid.org/0000-0001-7142-882X	researcher
+researchgraph.org/nci/chunhsu.su@bom.gov.au	nci.org.au	chunhsu.su@bom.gov.au	23/08/2017	http://www.researcherid.com/rid/C-2076-2014	Dr Chun-Hsu Su		researcher
+researchgraph.org/nci/CSIROEnquiries@csiro.au 	nci.org.au	CSIROEnquiries@csiro.au 	25/08/2017		CSIRO		researcher
+researchgraph.org/nci/j.soderholm@bom.gov.au	nci.org.au	j.soderholm@bom.gov.au	15/09/2017		Joshua Soderholm		researcher
