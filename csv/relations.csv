@@ -1,4 +1,4 @@
-START_ID,END_ID,type
+:START_ID,:END_ID,:type
 researchgraph.org/nci/f9737_6449_6141_8160,researchgraph.org/nci/Adam.lewis@ga.gov.au,relatedTo
 researchgraph.org/nci/f9737_6449_6141_8160,researchgraph.org/nci/scott.nichol@ga.gov.au,relatedTo
 researchgraph.org/nci/f9737_6449_6141_8160,researchgraph.org/nci/media@ga.gov.au,relatedTo
